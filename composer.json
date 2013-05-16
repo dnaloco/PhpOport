@@ -9,5 +9,10 @@
             "name": "Arthur Costa",
             "email": "arthur_scosta@yahoo.com.br"
         }
-    ]
+    ],
+    "autoload": {
+    	"psr-0" : {
+    		"PhpOport" : "src"
+    	}
+    }
 }
