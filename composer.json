@@ -1,0 +1,13 @@
+{
+    "name": "arthur/php-oport",
+    "description": "PhpOport Site para estudos do composer e do phpunit",
+    "require": {
+        "phpunit/phpunit": "3.7.1"
+    },
+    "authors": [
+        {
+            "name": "Arthur Costa",
+            "email": "arthur_scosta@yahoo.com.br"
+        }
+    ]
+}
